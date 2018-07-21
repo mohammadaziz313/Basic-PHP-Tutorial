@@ -21,6 +21,5 @@
     echo "<br>";
     echo '<a href="variables.php">Intro. to Variable</a>';
 ?>
-
 </body>
 </html>

@@ -17,6 +17,6 @@
     echo  "<h3>This is header no.".$txt."</h3>";
     echo  "<h3>This is header no. $txt </h3>";
 ?>
-    <a href=""></a>
+    <a href="datatypes.php">Intro to Datatypes</a>
 </body>
 </html>
