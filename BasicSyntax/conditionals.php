@@ -44,7 +44,7 @@
         <br>
         <a href="https://www.w3schools.com/pHP/php_switch.asp">Switch Case Tutorial</a>
         <br><br>
-        <a href=""></a>
+        <a href="functions.php">Writing Functions</a>
     </body>
 
 </html>
