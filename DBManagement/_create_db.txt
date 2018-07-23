@@ -1,0 +1,14 @@
+create database db0;
+use db0;
+show tables;
+
+create table student ( 
+	id INT(10) AUTO_INCREMENT, 
+	name char(30), 
+	age char(30),
+	PRIMARY KEY(id) 
+);
+
+insert into student values ( '', 'Nolan', '12' );
+insert into student values ( '', 'Riad', '10' );
+select * from student;
